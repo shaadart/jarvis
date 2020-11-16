@@ -6,7 +6,7 @@ import webbrowser
 import os
 
 
-birthdays = {"shaad":"3rd December", "samad": "19 april", "mom":"20 april", "papa":"11 may"}
+birthdays = {"shaad":"3rd November", "samad": "29 june", "mom":"11 july", "papa":"11 march"}
 
 
 
